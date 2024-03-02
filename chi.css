@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Party-name {
+    display: flex;
+    /* margin-right: -5rem;  */
+    padding: 2rem 0 2rem 10rem; 
+
+}
+
+
+.Party-name img{
+    height: 4rem;
+    width: 4rem;
+    margin-left: 0.5rem;
+}
+
+
+.Party-name h3{
+    margin-top: 1.5rem;
+
+    
+}
+
+.head-yes {
+    display: flex;
+    /* padding: 2rem 0rem 4rem 12rem; */
+    
+}
+
+
+.head-yes img {
+    display: flex;
+    margin-left: 27rem;
+    /* padding: 4rem 2rem 4rem 10rem; */
+    height: 30rem;
+    width: 30rem;
+    /* margin-right: 2rem; */
+    margin-bottom: 7rem;
+}
+
+
+.head-yes h1 {
+    display: flex;
+    /* -moz-text-size-adjust: 10rem; */
+    /* height: 15rem; */
+    text-size-adjust: 10rem;
+    /* margin-top: 16rem; */
+    text-align: justify;
+}
+
+
+#logo-sample h5 {
+    margin-right: 3rem;
+}
+
+
+#logo-sample img {
+    height: 3rem;
+    width: 3rem;
+}
+
+
+#riv-sim, h2{
+    margin-left: 16rem;
+    margin-bottom: 10rem;
+}
+
+h5 {
+    font-size: 10px;
+}
+
+
+#ama-opu h2 {
+    margin-left: 35rem;
+}
+
+
+#odu-ngo h2 {
+    margin-left: 60rem;
+    margin-bottom: 60rem;
+    /* margin-top: 30rem; */
+    /* text-align: right; */
+}
+
+#sample{
+    display: flex;
+    /* display: grid;
+    grid-template-columns: 100px 100px 100px; */
+}
+
+#logo-sample {
+    margin-bottom: 30px;
+}
+
+.head-yes{
+    background-color: blue;
+}
+
+.Party-name{
+    background-color: blue;
+}
+
+h1,h3{
+    color: antiquewhite;
+}
+
+h1{
+    text-size-adjust: 60px;
+}

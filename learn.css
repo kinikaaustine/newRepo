@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blueviolet;
+
+}
+div{
+   /*background-color: brown;*/
+    
+}
+#total{
+    background-color: black;
+}
+#sales{
+    background-color: chartreuse;
+}
+#rental{
+    background-color: brown;
+
+}
+h1,p { color: bisque;
+}

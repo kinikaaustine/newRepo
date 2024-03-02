@@ -1,0 +1,225 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.container .bio_data{
+    background-color: #FAFAFA;
+    margin-top: -26rem;
+}
+
+
+.container .bio_data img{
+    height: 22rem;
+    width: 18rem;
+    border-radius: .3rem;
+}
+
+.container .bio_data h3{
+    margin-top: 1rem;
+    font-weight: bold;
+    font-size: 1.35rem;
+}
+
+.container .bio_data p{
+    margin-top: .2rem;
+    opacity: .6;
+    font-weight: bolder;
+    font-size: 1.2rem;
+
+}
+
+.container .bio_data .contact{
+    margin-top: 2rem;
+}
+
+.container .bio_data .contact h3{
+    color: #84B5FF;
+}
+
+.container .bio_data .social-media{
+    margin-top: 2rem;
+}
+
+.container .bio_data .social-media i{
+    font-size: 2rem;
+    font-weight: bold;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+
+
+.container .bio_data button{
+    margin-top: 3rem;
+    height: 2.8rem;
+    width: 12rem;
+    border-radius: 2rem;
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: #4073D6;
+    background-color: #fff;
+    border: 2px solid #4073D6;
+    margin-left: 1rem;
+
+}
+
+
+.professional-bio{
+    width: 50rem;
+    padding-top: 2.5rem;
+}
+
+.professional-bio .name{
+    margin-left: -.5rem;
+}
+
+.professional-bio .name h3{
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.professional-bio .name p{
+    opacity: .5;
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-bottom: 3rem;
+}
+
+.professional-bio .name button{
+    border-radius: 3rem;
+    width: 10rem;
+    height: 3.5rem;
+    margin-bottom: 3rem;
+}
+
+.professional-bio .name button:hover{
+    cursor: pointer;
+    letter-spacing: .5rem;
+    background-color: rgb(4, 4, 53);
+    width: 12rem;
+}
+
+.professional-bio .name .share-link{
+    background-color: #4073D6;
+    border: none;
+    font-weight: bold;
+    font-size: 1.3rem;
+    color: #fff;
+}
+
+.professional-bio .name  .Project{
+    border: 2px solid #4073D6 ;
+    background-color: #fff;
+    color: #4073d6;
+    font-weight: bold;
+    font-size: 1.3rem;
+    margin-left: 2rem;
+}
+
+.professional-bio .offer{
+    background-color: #FAFAFA;
+    height: 20rem;
+}
+
+.professional-bio .offer h3{
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+
+.professional-bio .offer .service{
+    width: 40rem;
+    margin-top: 1.5rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    opacity: .5;
+    margin-bottom: 2rem;
+    font-family: sans-serif;
+    line-height: -1.5rem;
+}
+
+.professional-bio .skill-set{
+    width: 50rem;
+    background-color: #FAFAFA;
+    margin-top: 2.3rem;
+}
+
+.professional-bio .skill-set button{
+    margin-top: .7rem;
+    height: 2.5rem;
+    width: 7rem;
+    background: #fff;
+    border:2px #4073D6 solid;
+    border-radius: 2rem;
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: #4073D6;
+    margin-left: 1.2rem;
+}
+
+.professional-bio .skill-set .one{
+    width: 12rem;
+}
+
+.professional-bio .skill-set .two{
+    width: 10rem;
+}
+
+.professional-bio .skill-set .three{
+    width: 3.5rem;
+}
+
+.professional-bio .certifications{
+    background-color: #FAFAFA;
+    margin-top: 3rem;
+}
+
+.professional-bio .certifications h3{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+.professional-bio .certifications span{
+    opacity: .6;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.professional-bio .certifications .year{
+    margin-left: 31rem;
+}
+
+.professional-bio  .experiences{
+    background-color: #FAFAFA;
+    margin-top: 3rem;
+}
+
+.professional-bio .experiences h3{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+.professional-bio .experiences span{
+    opacity: .6;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.professional-bio .experiences .year{
+    margin-left: 36rem;
+}
+
+footer{
+    padding: 3rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
